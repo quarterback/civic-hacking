@@ -37,4 +37,4 @@ Any materials that help with running the group can be collected in [docs](/docs)
 Expand on the types of civic hacking groups (e.g. Code for America Brigade) and how they work.
 
 ## Code for America Code of Conduct
-All members of BMGHack are expected to adhere to the tenets of Code For America's [Code of Conduct] (https://github.com/codeforamerica/codeofconduct)
+All members of BMGHack are expected to adhere to the tenets of Code For America's Code of Conduct (https://github.com/codeforamerica/codeofconduct)
